@@ -1,8 +1,13 @@
 {
-  "name": "utils",
+  "name": "utils-ojuking",
   "version": "1.0.0",
   "description": "前端常用工具",
   "main": "index.js",
   "author": "sweet_tea",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash.debounce": "^4.0.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
